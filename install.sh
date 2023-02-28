@@ -8,7 +8,7 @@ apt update && apt upgrade -y && apt install -y git
 
 # cd into scripts
 
-cd sdn-lab/scripts
+cd scripts
 
 # Make scripts executable
 

@@ -38,7 +38,10 @@ Questa guida è stata creata al fine di guidare gli utenti con Mac Apple Silicon
 	sudo apt update && sudo apt upgrade -y && sudo apt install git -y
 	```
 	- Andrà inserita la password impostata al passo (vii) della precedente sezione. È normale che i caratteri digitati non appaiano sullo schermo.
-2. Clonare questa repository sulla macchina virtuale tramite il comando `git clone https://github.com/MrVideo/sdn-lab.git`
+2. Clonare questa repository sulla macchina virtuale tramite il comando:
+	```shell
+	git clone https://github.com/MrVideo/sdn-lab.git
+	```
 3. Inserire il seguente comando:
 	```shell
 	cd sdn-lab

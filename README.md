@@ -61,4 +61,11 @@ cd
 git clone https://github.com/gverticale/sdn-vm-polimi.git
 ```
 
-I materiali sono contenuti nella directory `sdn-vm-polimi/sdn-lab`.
+I materiali sono contenuti nella directory `sdn-vm-polimi/sdn-lab`. Per rendere eseguibili gli script, è sufficiente digitare il seguente comando nella directory dei materiali:
+
+```shell
+sudo chmod -R +x .
+```
+
+Verrà richiesta la password impostata al passo (vii) anche in questo caso.
+

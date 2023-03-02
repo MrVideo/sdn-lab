@@ -2,9 +2,9 @@
 
 # Eseguire questo script con i privilegi da amministratore.
 
-# Update packages and Git installation
+# Update packages
 
-apt update && apt upgrade -y && apt install -y git
+apt update && apt upgrade -y
 
 # cd into scripts
 
